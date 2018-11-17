@@ -16,7 +16,8 @@ Open a telnet session with `telnet 0.0.0.0 8080` and send the following commands
 T 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.0 0.0 1.0
 L 0.0 0.0 1.0 0.0 0.0 -1.0 -1.0 0.0 0.0 1.0
 ```
-The result is displayed as 
+The result is displayed as
+
 ![Canvas](https://github.com/lucasimi/canvas/blob/master/canvas.png)
 
 
